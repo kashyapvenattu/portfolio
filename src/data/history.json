@@ -1,29 +1,31 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Senior Software Engineer in Performance & Reliability",
+    "organisation": "8X8 Inc.",
+    "startDate": "Oct 2022",
+    "endDate": "Nov 2023",
+    "experiences": ["User experience improvement by proactively identifying opportunities for cost savings on cloud", "Expertise in performance testing, profiling, and tuning across various platforms/technologies"],
+    "imageSrc": "history/8x8.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+    "role": "Technical Test Lead",
+    "organisation": "Infosys Ltd.",
+    "startDate": "May 2018",
+    "endDate": "Oct 2022",
+    "experiences": ["Optimize system performance and ensure scalability of complex software applications",
+                    "Skilled at utilizing industry-leading tools and methodologies to analyze, troubleshoot, and enhance the overall performance of applications and systems"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/infosys.jpg"
+  },
+  {
+    "role": "Performance Test Analyst",
+    "organisation": "IBS Softwares",
+    "startDate": "Jan 2014",
+    "endDate": "Apr 2018",
+    "experiences": [
+      "Gather Non-Functional Requirement, Create/Review Test Plan/Test Strategy documents and estimate efforts",
+      "Develop & Review Performance Test Scripts & conduct Performance Tests at production sites using JMeter distributed tests [& test lab setup at onsite locations]"
+    ],
+    "imageSrc": "history/IBS.svg"
   }
 ]

@@ -7,11 +7,27 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Kashyap Venattu</h1>
-        <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
-        </p>
+        <h1 className={styles.title}>
+          Hi...
+          <br />
+          I'm Kashyap Venattu
+        </h1>
+
+        {/* <p className={styles.description}></p> */}
+        <ul className={styles.description}>
+          <li>
+            10+ years of Performance, Chaos & Resiliency Engineering, consulting
+            for multiple clients at global locations (Canada, US, India,
+            Australia, Germany, South Korea, Japan)
+          </li>
+          <li>
+            3+ years of experience working closely with DevOps, integrating
+            Performance/Automation frameworks and test processes into CI/CD
+            pipelines using Jenkins, Docker, Kubernetes, Helm on Could (AWS &
+            Azure)
+          </li>
+          <li>2+ years of experience as a Full Stack Developer</li>
+        </ul>
         <a href="mailto:kashyapvenattu@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>

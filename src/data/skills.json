@@ -1,30 +1,74 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "JMeter",
+    "imageSrc": "skills/jmeter-text.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Dynatrace",
+    "imageSrc": "skills/dynatrace-text.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "NewRelic",
+    "imageSrc": "skills/newrelic-text.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins-text.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Kubernates",
+    "imageSrc": "skills/kubernates-text.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker-text.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure-text.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws-text.png"
+  },
+  {
+    "title": "Tarus",
+    "imageSrc": "skills/taurus-text.png"
+  },
+  {
+    "title": "Oracle",
+    "imageSrc": "skills/oracle-text.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/mongodb-text.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Java",
+    "imageSrc": "skills/java-text.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript-text.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html-text.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css-text.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react-text.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/reactnative-text.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/nodejs-text.png"
   }
 ]
