@@ -27,6 +27,9 @@ export const Hero = () => {
             Azure)
           </li>
           <li>2+ years of experience as a Full Stack Developer</li>
+          <li>
+            Bachelor of Technology in Computer Science & Engineering [4 years]
+          </li>
         </ul>
         <a href="mailto:kashyapvenattu@gmail.com" className={styles.contactBtn}>
           Contact Me
