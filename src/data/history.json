@@ -4,7 +4,13 @@
     "organisation": "8X8 Inc.",
     "startDate": "Oct 2022",
     "endDate": "Nov 2023",
-    "experiences": ["User experience improvement by proactively identifying opportunities for cost savings on cloud", "Expertise in performance testing, profiling, and tuning across various platforms/technologies"],
+    "experiences": [
+      "User experience improvement by proactively identifying opportunities for cost savings on cloud", 
+      "Expertise in performance testing, profiling, and tuning across various platforms/technologies",
+      "Conduct resiliency testing using Chaos Mesh, targeting Kubernetes nodes",
+      "Managing Jenkins pipeline scripts & integration with Docker, Kubernetes"
+      
+    ],
     "imageSrc": "history/8x8.png"
   },
   {
@@ -23,7 +29,7 @@
     "startDate": "Jan 2014",
     "endDate": "Apr 2018",
     "experiences": [
-      "Gather Non-Functional Requirement, Create/Review Test Plan/Test Strategy documents and estimate efforts",
+      "Gather Non-Functional Requirement, Create/Review Workload Model/Test Plan/Test Strategy documents and estimate efforts",
       "Develop & Review Performance Test Scripts & conduct Performance Tests at production sites using JMeter distributed tests [& test lab setup at onsite locations]"
     ],
     "imageSrc": "history/IBS.svg"
