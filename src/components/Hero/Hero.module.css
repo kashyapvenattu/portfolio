@@ -42,6 +42,18 @@
 
 .description li{
   margin-bottom: 25px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(165, 215, 232, 0.42) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+
+.description li:hover {
+  background-size: 100% 100%;
 }
 
 .contactBtn {
