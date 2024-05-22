@@ -24,7 +24,7 @@
 }
 
 .skills {
-  width: 30%;
+  width: 20%;
   display: flex;
   flex-wrap: wrap;
   gap: 25px;
