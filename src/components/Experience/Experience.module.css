@@ -2,7 +2,7 @@
 
 .container {
   color: var(--color-text);
-  margin-top: 79px;
+  margin-top: 75px;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -13,28 +13,28 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
-  padding: 25px;
+  padding: 0px 0px 50px 0px;
 }
 
 .content {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
-  margin-top: 14px;
+  justify-content: left;
+  width: 100vw;
 }
 
 .skills {
-  width: 45%;
+  width: 33%;
   display: flex;
   flex-wrap: wrap;
-  gap: 37px;
+  gap: 25px;
 }
 
 .skill {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 11px;
+  /* gap: 10px; */
 }
 
 .skillImageContainer {
@@ -49,18 +49,17 @@
 }
 
 .skillImageContainer img {
-  width: 50px;
-  zoom: 1.5;
+  width: 75px;
 }
 
-.skill p {
+/* .skill p {
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
-}
+} */
 
 .history {
-  width: 45%;
+  width: 55%;
   display: flex;
   flex-direction: column;
   gap: 25px;
@@ -96,11 +95,11 @@
 }
 
 .historyItemDetails ul {
-  margin-top: 6px;
+  margin-top: 10px;
   list-style-position: inside;
   font-size: 20px;
   list-style-type: disc;
-  margin-left: 17px;
+  margin-left: 15px;
 }
 
 @media screen and (max-width: 830px) {
