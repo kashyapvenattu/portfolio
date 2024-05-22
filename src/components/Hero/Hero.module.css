@@ -7,8 +7,8 @@
   justify-content: space-between;
   margin-top: 25px;
   /* z-index: 1; */
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   gap: 25px;
 }
 
@@ -27,7 +27,7 @@
   font-family: var(--font-roboto);
   background: linear-gradient(
     90deg,
-    rgba(255, 255, 255, 1) 70%,
+    rgb(255, 255, 255) 70%,
     rgba(255, 255, 255, 0) 120%
   );
   -webkit-text-fill-color: transparent;
@@ -44,12 +44,12 @@
   margin-bottom: 25px;
   background-image: linear-gradient(
     90deg,
-    rgba(165, 215, 232, 0.42) 0%,
+    rgba(72, 124, 142, 0.42) 0%,
     rgba(255, 255, 255, 0) 100%
   );
   background-size: 0 100%;
   background-repeat: no-repeat;
-  transition: 0.4s;
+  transition: 0.5s;
 }
 
 .description li:hover {
