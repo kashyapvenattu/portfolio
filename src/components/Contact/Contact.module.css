@@ -52,6 +52,7 @@
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: 0.5s;
+  padding: 10px;
 }
 
 .link a:hover {

@@ -42,19 +42,19 @@
 
 .description li{
   margin-bottom: 25px;
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     90deg,
     rgba(72, 124, 142, 0.42) 0%,
     rgba(255, 255, 255, 0) 100%
   );
   background-size: 0 100%;
   background-repeat: no-repeat;
-  transition: 0.5s;
+  transition: 0.5s; */
 }
 
-.description li:hover {
+/* .description li:hover {
   background-size: 100% 100%;
-}
+} */
 
 .contactBtn {
   text-decoration: none;
