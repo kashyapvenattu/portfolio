@@ -44,6 +44,18 @@
   font-size: 25px;
   font-weight: 400;
   letter-spacing: 1.5px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(194, 227, 238, 0.42) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.5s;
+}
+
+.link a:hover {
+  background-size: 100% 100%;
 }
 
 @media screen and (max-width: 830px) {
