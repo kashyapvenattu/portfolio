@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>
           Hi...
           <br />
-          I'm Kashyap Venattu
+          I'm Kashyap Venattu <div></div>
         </h1>
 
         {/* <p className={styles.description}></p> */}
@@ -26,7 +26,7 @@ export const Hero = () => {
             pipelines using Jenkins, Docker, Kubernetes, Helm on Could (AWS &
             Azure)
           </li>
-          <li>2+ years of experience as a Full Stack Developer</li>
+          <li>Experience in Full Stack Development</li>
           <li>
             Bachelor of Technology in Computer Science & Engineering [4 years]
           </li>
